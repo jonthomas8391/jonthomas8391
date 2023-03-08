@@ -1,11 +1,11 @@
-## Hi, I'm Full stack developer 👋
+## Hi, I'm Senior Full Stack developer 👋
 
-![](https://komarev.com/ghpvc/?username=kingstar0126&color=green)
+![](https://komarev.com/ghpvc/?username=jonthomas8391&color=green)
 
 This is my address: <br/>
 skype😘: live:.cid.87702686344107cf
 <br />
-gmail 📨: popstar0126@gmail.com 
+gmail 📨: jon.thomas8391@gmail.com
 <br />
 
 ### My Working Style
@@ -177,16 +177,16 @@ gmail 📨: popstar0126@gmail.com
 ### ⚙️ &nbsp;Some Stats
 
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kingstar0126&show_icons=true&theme=radical&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kingstar0126&theme=radical&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jonthomas8391&show_icons=true&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jonthomas8391&theme=radical&hide_border=true" />
 </p>
 <br>
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=kingstar0126&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
+<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=jonthomas8391&bg_color=141321&color=FE428E&line=F6D646&point=A9FEF7&hide_border=true">
 </p>
 <br />
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kingstar0126&theme=monokai" (https://github.com/ryo-ma/github-profile-trophy) />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=jonthomas8391&theme=monokai" (https://github.com/ryo-ma/github-profile-trophy) />
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
