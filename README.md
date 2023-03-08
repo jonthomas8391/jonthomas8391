@@ -190,3 +190,4 @@ gmail 📨: jon.thomas8391@gmail.com
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
