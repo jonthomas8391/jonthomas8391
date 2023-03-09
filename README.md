@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=jonthomas8391&color=green)
 
 This is my address: <br/>
-skype😘: live:.cid.87702686344107cf
+skype😘: live:.cid.57380802acf4db7b
 <br />
 gmail 📨: jon.thomas8391@gmail.com
 <br />
